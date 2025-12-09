@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "iB",
+  "base_artist": "Cö shu Nie",
+  "createdAt": "2025-12-09T02:31:03.930112Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "iB",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/01_iB_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "iB",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/02_iB_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Emptiness (feat. Ib)",
+      "artist": "Zodiac Wave",
+      "has_synced": true,
+      "path": "select/03_Emptiness_(feat._Ib)_Zodiac_Wave.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Vijayi Bhava (From \"Ib 71\")",
+      "artist": "Vikram Montrose feat. Shadab Faridi & Abhinav Shekhar",
+      "has_synced": true,
+      "path": "select/04_Vijayi_Bhava_(From__Ib_71_)_Vikram_Montrose_feat._Shadab_Faridi_&_Abhinav_Shekhar.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Vijayi Bhava (From \"Ib 71\")",
+      "artist": "Vikram Montrose, Shadab Faridi, Abhinav Shekhar",
+      "has_synced": true,
+      "path": "select/05_Vijayi_Bhava_(From__Ib_71_)_Vikram_Montrose,_Shadab_Faridi,_Abhinav_Shekhar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ib",
+      "artist": "Kill Bill: The Rapper",
+      "has_synced": true,
+      "path": "select/06_ib_Kill_Bill__The_Rapper.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ib René, Cairo",
+      "artist": "TV-2",
+      "has_synced": false,
+      "path": "select/07_Ib_René,_Cairo_TV-2.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Дело нескольких минут (3 раунд, 17 ib)",
+      "artist": "Oxxxymiron",
+      "has_synced": false,
+      "path": "select/08_Дело_нескольких_минут_(3_раунд,_17_ib)_Oxxxymiron.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ib",
+      "artist": "c shu nie",
+      "has_synced": true,
+      "path": "select/09_ib_c_shu_nie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cryin' In The Rain (IB HandsUp! Radio Edit)",
+      "artist": "ItaloBrothers",
+      "has_synced": true,
+      "path": "select/10_Cryin'_In_The_Rain_(IB_HandsUp!_Radio_Edit)_ItaloBrothers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ib Hnub",
+      "artist": "David Yang",
+      "has_synced": false,
+      "path": "select/11_Ib_Hnub_David_Yang.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ib Believe 'Yo creo'",
+      "artist": "Aventura",
+      "has_synced": true,
+      "path": "select/12_Ib_Believe_'Yo_creo'_Aventura.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cryin’ in the Rain (IB Hands Up! remix)",
+      "artist": "ItaloBrothers",
+      "has_synced": true,
+      "path": "select/13_Cryin’_in_the_Rain_(IB_Hands_Up!_remix)_ItaloBrothers.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cyber Girl (IB X remix)",
+      "artist": "Mordacious",
+      "has_synced": false,
+      "path": "select/14_Cyber_Girl_(IB_X_remix)_Mordacious.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "iB",
+      "artist": "Cö shu Nie",
+      "has_synced": false,
+      "path": "select/pl_01_iB_Cö_shu_Nie.txt"
+    }
+  ]
+}
